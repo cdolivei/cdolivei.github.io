@@ -27,3 +27,4 @@ paginate:     3
 sass:
   compressed: true
 exclude:      [ LICENSE.txt ]
+gems: [jekyll-paginate] 
