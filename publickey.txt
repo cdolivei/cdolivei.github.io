@@ -2,7 +2,7 @@
 permalink: /about/publickey.txt
 ---
 
-----BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
 mQENBFj6u5YBCADnBkqe2LD6HvYTX69nSTE4+Kthc1mhH8Lo/PHcDpztUhNhM5wr
