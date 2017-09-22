@@ -8,7 +8,7 @@ I played an interesting game on the Star Realm app today:
 
 ![Star Realms deckbuilder game. Showing a large number of bases, outposts, and units in play for the player. The opponent has 30 authority left. The player has 246 authority, 47 money, and 548 damage. It is the player's turn. There are no cards in the trade row except Explorer][548]
 
-Now to any player of the game will know that this is an usual game. A lot of cards are in play. Recently, to make this game more interesting, I was wondering what was the higest amount of damage I could inflict in a single turn. This was the first time I broke the 500 damage mark.
+Now to any player of the game will know that this is an unusual game. A lot of cards are in play. Recently, to make this game more interesting, I was wondering what was the higest amount of damage I could inflict in a single turn. This was the first time I broke the 500 damage mark.
 
 There are a few particular cards needed to actually achieve a high damage cound. Since I'm bored, I'll go into more details. But first, some additional information:
 
