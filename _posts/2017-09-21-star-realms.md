@@ -63,9 +63,9 @@ Copy the Mega Merc and pick up another 20+ cards.
 
 Now if you're opponent isn't absolutely conspiring with you to lose, it'll likely take some of the Blob cards. I never got all the Blob units in a single game - and without having a human player willing to just pick up Explorers, you will likely never get that lucky (plus get both Merc Cruisers, both Battle Barges, the Mega Mech, and the Stealth Needle - and all the other high damaging cards you'll need). You just need a lot of luck to get the right cards at the right time.
 
-[548]: {{ site.url }}/assets/2017-09-21-548.png
-[blobworld]: {{ site.url }}/assets/2017-09-21-blobworld.png
-[merccruiser]: {{ site.url }}/assets/2017-09-21-merccruiser.png
-[battlebarge]: {{ site.url }}/assets/2017-09-21-battlebarge.png
-[megamech]: {{ site.url }}/assets/2017-09-21-megamech.png
-[stealthneedle]: {{ site.url }}/assets/2017-09-21-stealthneedle.png
+[548]: /assets/2017-09-21-548.png
+[blobworld]: /assets/2017-09-21-blobworld.png
+[merccruiser]: /assets/2017-09-21-merccruiser.png
+[battlebarge]: /assets/2017-09-21-battlebarge.png
+[megamech]: /assets/2017-09-21-megamech.png
+[stealthneedle]: /assets/2017-09-21-stealthneedle.png
