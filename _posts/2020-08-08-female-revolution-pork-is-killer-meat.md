@@ -9,15 +9,15 @@ tags: reggae
 They say the pig is ugly<br>
 Man try they've run from the sickness<br>
 Man try they've run from disease<br>
-Every day the children they play<br>
+Every day Jah children they play<br>
 But they don't know the danger awaits<br>
 And they say achoo<br>
 And they say achoo<br>
-Now the Romans and the Pharaohs<br>
+Now the Romans and the Pharisees<br>
 They eat it every night (every night)<br>
 But Jah the Holy One<br>
 He told them it was wrong (it was wrong)<br>
-[???] the people of today<br>
+And many a people of today<br>
 Don't try to understand (understand)<br>
 I try to reason and explain<br>
 But they always shame me in disgrace<br>
