@@ -7,6 +7,8 @@ tags: toronto
 
 Note: I was going through my GitHub branches and noticed this draft from 2023. I'm not sure why I didn't post it, but I enjoyed reading it again, so I'm publishing it now!
 
+---
+
 2023 Toronto Election
 
 The City of Toronto recently had it's mayoral election with 102 candidates running. Only a few people actually stood a chance of winning, but I thought it would be unfair to the other 96 candidates who at least chose to run. So I randomly went through the list and checked out some random people's platform. Oh boy, what a journey!
