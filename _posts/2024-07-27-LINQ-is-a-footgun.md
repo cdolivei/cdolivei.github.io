@@ -44,7 +44,7 @@ publisher.Publish( results );
 
 But there was a bug! `RestoreSomeItem()` is not deterministic. If you restore the same item twice, only the first call will return results. The second one will return an empty list.
 
-The call to `.Any()` ran the database query. When the publisher iterated over the results it got back an empty list.
+The call to `.Any()` ran the database query. When the publisher iterated over the results, it ran another query and got back an empty list.
 
 Thankfully tests picked up my error. But this is when I learned these LINQ methods are generally not great to use - they have unintended side-effects, and honestly seem to defeat the purpose of using `IEnumerable<T>`. Unfortauntely I needed to convert this to a `List<T>`, which kinda sucks because the results could be tens of thousands of items.
 
