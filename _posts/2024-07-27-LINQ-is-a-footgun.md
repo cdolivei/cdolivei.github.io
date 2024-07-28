@@ -24,15 +24,16 @@ Let's take some slightly fictious method:
 
 ```csharp
 public IEnumerable<long> RestoreSomeItem( long itemId ) {
-  do {
-    // updates something in the database
-    // returns ids in the database that changed as a result
+  // updates something in the database
+  // returns ids in the database that changed as a result, as a byproduct of that update
+  while ( results.HasMoreItems ) {
+    long relatedItemIds = results.ReadRow()
     yield return relatedItemIds;
-  } while ( weStillHaveResults );
+  }
 }
 ```
 
-I had to call this method, but in my method I had to return whether any items changed. "Simple!" I thought:
+I had to call this method, but in my method I had to return whether any items changed. "Simple!" I thought, incorrectly:
 
 ```csharp
 IEnumerable<long> results = someClass.RestoreSomeItem( 1 );
@@ -46,3 +47,5 @@ But there was a bug! `RestoreSomeItem()` is not deterministic. If you restore th
 The call to `.Any()` ran the database query. When the publisher iterated over the results it got back an empty list.
 
 Thankfully tests picked up my error. But this is when I learned these LINQ methods are generally not great to use - they have unintended side-effects, and honestly seem to defeat the purpose of using `IEnumerable<T>`. Unfortauntely I needed to convert this to a `List<T>`, which kinda sucks because the results could be tens of thousands of items.
+
+So... uhhh.. [I wrote something](https://github.com/cdolivei/Miser) that I hope to use that will be less of a footgun
