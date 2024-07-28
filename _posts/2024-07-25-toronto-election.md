@@ -23,7 +23,7 @@ Actually some of them weren't bad. [Kris Langenfeld](https://web.archive.org/web
 
 a bit strange to put on a platform, but okay...
 
-~(not in the archive.org page)~ It was on a later [wayback snapshot](https://web.archive.org/web/20230928183249/https://www.torontonewsnet.com/weizhentang/)
+~~(not in the archive.org page)~~ It was on a later [wayback snapshot](https://web.archive.org/web/20230928183249/https://www.torontonewsnet.com/weizhentang/)
 
 > I will make 10 Billion dollars for the city of Toronto in a year to replace all the property taxes and to cover free TTC by investing US equity index ETFs SPY and will Restore Trust, Preserve Culture and Passion. Bring happy life for Torontonians ，Wholeheartedly Serve the People of Toronto.
 
