@@ -17,7 +17,7 @@ It was meant to be called the "wadadada soundsystem" after a verse in Dadawah's 
 > In my land of Ethopia, wadadasow means love man
 
 But even before my soundsystem was finished, I found out that this name was already taken.
-Searching now, I cannot find who/what took it, but I became a name of last resort.
+Searching now, I cannot find who/what took it, but it was relagated to a name of last resort.
 I _could_ take the same name, but I was constantly looking for a new and better name.
 And I've been struggling for the past... 9 months to find a suitable name.
 
@@ -32,7 +32,7 @@ Groundation is a fantasic album.
 And that particular song hits different, and that _particular_ verse hits the hardest for me.
 
 Randomly, today, I realized having _no_ name is perhaps the right name for my soundsystem.
-It is a affirmation that as a consequence of the trans-atlantic slave trade, people had to abandon their african names and take on new names.
+It is a reminder that as a consequence of the trans-atlantic slave trade, people had to abandon their african names and take on new names.
 
 They had lost their names.
 
